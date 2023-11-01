@@ -1,2 +1,5 @@
+res://ball.gd
+res://ui.tscn
+res://Scripts/ui.gd
+res://death_zone.tscn
 res://main.tscn
-res://paddle.tscn

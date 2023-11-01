@@ -1,0 +1,12 @@
+Button
+Label
+VBoxContainer
+HBoxContainer
+Panel
+CenterContainer
+MarginContainer
+CanvasLayer
+CollisionShape2D
+Area2D
+RigidBody2D
+Node
