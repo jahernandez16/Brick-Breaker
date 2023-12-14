@@ -1,5 +1,5 @@
-res://ball.gd
-res://ui.tscn
-res://Scripts/ui.gd
-res://death_zone.tscn
-res://main.tscn
+res://Scenes/wall.tscn
+res://Scenes/death_zone.tscn
+res://Scenes/ui.tscn
+res://Scenes/main.tscn
+res://Scenes/paddle.tscn

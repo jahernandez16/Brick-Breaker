@@ -1,4 +1,4 @@
-[gd_scene load_steps=4 format=3 uid="uid://ca18oqd1psepl"]
+[gd_scene load_steps=4 format=3 uid="uid://1t72mvnnbatj"]
 
 [ext_resource type="Texture2D" uid="uid://ciad7rky0sxgt" path="res://Assets/Ball.png" id="1_ku5ie"]
 [ext_resource type="Script" path="res://ball.gd" id="1_t814d"]
@@ -8,7 +8,10 @@ radius = 8.0
 
 [node name="Ball" type="CharacterBody2D"]
 scale = Vector2(0.25, 0.25)
+motion_mode = 1
 script = ExtResource("1_t814d")
+ball_speed = null
+lifes = null
 
 [node name="Sprite2D" type="Sprite2D" parent="."]
 scale = Vector2(0.25, 0.25)
